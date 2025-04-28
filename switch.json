@@ -1,3 +1,6 @@
 {
-    "kill_switch": false
+  "settings": {
+    "kill_switch": false,
+    "Bluescreen_mode": false
+  }
 }
